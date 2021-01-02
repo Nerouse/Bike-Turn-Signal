@@ -20,7 +20,7 @@ appear on the led Matrix going the direction that was inputted.This whole system
 ## **Circuit Design**
 ![Circuit](/BikeTurnSignal.png)
 ## **Design Process**
-[Design Process](/DesignProcess)
+[Design Process](/DesignProcess.md)
 ## **Parts List & Sources**
 [ARUDINO UNO](https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU/ref=sr_1_4?dchild=1&keywords=arduino+uno&qid=1608048137&sr=8-4)
 <br>
